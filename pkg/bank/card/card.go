@@ -18,3 +18,8 @@ func Total(cards []types.Card) types.Money {
 	}
 	return sum
 }
+
+
+func PaymentSources(cards []types.Card)[]types.PaymentSource{
+	
+}
