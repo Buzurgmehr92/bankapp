@@ -40,7 +40,4 @@ func ExampleTotal() {
 	//300000
 	//0
 	//0
-	
-
-
 }
